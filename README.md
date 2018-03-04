@@ -1,7 +1,7 @@
 # Basic-Portfolio
 
-basic-portfolio
-This is the first assignment completed for the Houston Coding Bootcamp Delivered by UT Austin.
+
+This is the first assignment completed for the University of California Berkeley Coding Bootcamp Delivered.
 
 This is part two of the first assignment where we were required to build a professional portfolio site using HTML/CSS.
 
