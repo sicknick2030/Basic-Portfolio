@@ -7,7 +7,7 @@ This is part two of the first assignment where we were required to build a profe
 
 Getting Started
 Click on the following link to preview the completed assignment.
-https://bronzeowl.github.io/basic-portfolio
+https://sicknick2030.github.io/Basic-Portfolio/
 
 Built With
 HTML5
